@@ -10,4 +10,4 @@ Funcionalidades principales: * registro y control del menú y productos. * gesti
 
 Integrantes del equipo: * Valdemar Rodrigues Martínez. *Briana Ximena Hernández Tranquilino. * Naomi Susana Ramos Perez. * Dolores Mercedes Ortiz Cruz
 
-tecnologías que podrían que podrían utilizarse: * python, flask, HTML, CSS, JavaScript.
+Tecnologías que podrían que podrían utilizarse: * python, flask, HTML, CSS, JavaScript.
