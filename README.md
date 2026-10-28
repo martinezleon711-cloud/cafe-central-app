@@ -8,6 +8,6 @@ Problema que se resuelve: optimización y control de pedidos, la administración
 
 Funcionalidades principales: * registro y control del menú y productos. * gestión de pedidos de los clientes. * seguimiento de ventanas y cortes de caja.
 
-Integrantes del equipo: * Valdemar Rodrigues Martínez. *Briana Ximena Hernández Tranquilino. * Naomi Susana Ramos Perez. * Dolores Mercedes Ortiz Cruz
+Integrantes del equipo: * Valdemar Rodrigues Martínez. *Briana Ximena Hernández Tranquilino. * Nahomi Susana Ramos Perez. * Dolores Mercedes Ortiz Cruz
 
 Tecnologías que podrían que podrían utilizarse: * python, flask, HTML, CSS, JavaScript.
